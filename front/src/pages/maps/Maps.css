@@ -1,0 +1,48 @@
+#template_maps {
+    font-family: 'Nunito' sans-serif;
+    font-size: 18px;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    display: flex;
+
+}
+#template_maps aside button {
+    border-radius: 20px;
+    height: 60px;
+    width:  60px;
+    margin-top: -30px;
+   
+}
+#template_maps aside {
+    width: 440px;
+    background-color: rgb(0, 0, 0);
+    padding: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+#template_maps aside h3 {
+    margin-top: 40px;
+    font-size: 38px;
+    font-weight: 800;
+    line-height: 50px;
+    color: rgb(16, 231, 98);
+}
+#template_maps aside h2 {
+    color: rgb(214, 214, 214);
+}
+#template_maps aside p {
+    margin-top: 40px;
+    font-size: 21px;
+    font-weight: 600;
+    color: rgb(0, 255, 242);
+}
+
+#template_maps aside footer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+}
